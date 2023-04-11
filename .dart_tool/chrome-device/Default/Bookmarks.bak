@@ -1,0 +1,120 @@
+{
+   "checksum": "c55a1e7a12946f43cbdf44d93bb850bc",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13314727677370980",
+            "date_last_used": "0",
+            "guid": "58ce99d0-1810-4477-b525-2eabb0067827",
+            "id": "12",
+            "name": "AmbienteInfra - ListaAmbienteInfra - Todos os Itens",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://sansix.sharepoint.com/sites/AmbienteInfra/Lists/ListaAmbienteInfra/AllItems.aspx"
+         } ],
+         "date_added": "13321556672192404",
+         "date_last_used": "0",
+         "date_modified": "13314727677370980",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Barra de favoritos",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13316188221268611",
+               "date_last_used": "0",
+               "guid": "c9376fd8-0e1f-4913-99ad-026ba2919dcf",
+               "id": "6",
+               "name": "AmbienteInfra - ListaAmbienteInfra - Todos os Itens",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://sansix.sharepoint.com/sites/AmbienteInfra/Lists/ListaAmbienteInfra/AllItems.aspx"
+            }, {
+               "date_added": "13316718942409644",
+               "date_last_used": "0",
+               "guid": "e5e81bda-f539-41ff-93b2-c85ad8f545d2",
+               "id": "7",
+               "name": "Zabbix Sansix: Dashboard",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "http://monitoramento.sansix.com.br:8081/zabbix/zabbix.php?action=dashboard.view"
+            }, {
+               "date_added": "13316889909566590",
+               "date_last_used": "0",
+               "guid": "7747f6cd-7c50-448f-a7b3-8fbc5ef77e8d",
+               "id": "8",
+               "name": "Understanding null safety | Dart",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://dart.dev/null-safety/understanding-null-safety"
+            }, {
+               "date_added": "13317227887390268",
+               "date_last_used": "0",
+               "guid": "f3fc171d-a85d-463b-80f0-f57498412cff",
+               "id": "9",
+               "name": "Cookbook | Flutter",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://docs.flutter.dev/cookbook"
+            }, {
+               "date_added": "13317390241206145",
+               "date_last_used": "0",
+               "guid": "fd676107-ccb9-496d-b616-1b8c9e939fbc",
+               "id": "10",
+               "name": "GLPI - Autenticação",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://atendimento.sansix.com.br/"
+            }, {
+               "date_added": "13317737129372288",
+               "date_last_used": "0",
+               "guid": "1ea4a2ea-c2df-4392-b2ff-412cbde11bfc",
+               "id": "11",
+               "name": "BI launch pad",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "http://192.168.143.3:8080/BOE/BI"
+            } ],
+            "date_added": "13316188221239786",
+            "date_last_used": "0",
+            "date_modified": "13317737129372288",
+            "guid": "f7fdf773-5e27-49b1-9840-4031bea2b36a",
+            "id": "5",
+            "name": "Homey Bookmarks",
+            "source": "unknown",
+            "type": "folder"
+         } ],
+         "date_added": "13321556672192416",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Outros favoritos",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13321556672192422",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Favoritos do celular",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CosBCg4IiIECEgggIee2hgEAABIAGlhNUTJwRTN4Ny8yOUE4VXB2NUdObGdYWkY2MEQvVy9iWUxKZWtZNHorY2xOMEpTa3YrRFpabXE1ZmovejhsR01TWlNGR2NudDV2MlBUUFRvVXpFTHE0dz09IAEqGEtYa3BmNW4wTjZIeFhQQ25yWmtoNEE9PaAGDBKJAQgDEoQBChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EiQyYzYwZTBlYS1iMDhlLTU4N2YtOWM5NC01ODdkMDA1ZjViZmMYACAAKAAwvbSKr8gwOOu6iq/IMEDruoqvyDBKHHl6TkIwMWNuNTRBN2NSVTB1VCsvUGdtVHRVbz1aAGUAAAAAEqcBCAYSogEKHFNmeDh4YnJ3bWNhNEM1UHhZNHRlNzZsRUNRND0SJGM5Mzc2ZmQ4LTBlMWYtNDkxMy05OWFkLTAyNmJhMjkxOWRjZhgAIAAoADDop9PP0zA416jTz9MwQNeo08/TMEocdGFBcC9BNlgrNFNtS0R3dWhoZlBIZlFMbUdRPVoeIhwyZitOMTBPNVZyMnJiSTg2ai9lWnNrY3J6ejQ9ZUTJ4SMSqAEICxKjAQocenBPN0tCdFkvVElLeEZ0KzY0VGFUaFVEdy9NPRIkMWVhNGEyZWEtYzJkZi00MzkyLWIyZmYtNDEyY2JkZTExYmZjGAAgACgAMLWqnrjqMDjUkZ2y2TBAtaqeuOowShxVbmJRRW92WWNEWWRMRnl5M2ZjUUtxT2x3b009Wh8iHbNQV0s5MlNIMFNqbExBRUJhT1luaG52aEp3Tm89Za1+m+MSiQEIAhKEAQocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRIkYjRjMTA3YjAtMjdlZi01M2I0LTk5NWEtMjQ2ZjE4ZWFmOWEyGAAgACgAMLi0iq/IMDiguYqvyDBAoLmKr8gwShxvUFZraHdCUmJWNjVLQ1dSMitJT05IV29PdTg9WgBlAAAAABKnAQgFEqIBChxGdVYwaFIySWhqd3RHUzZBaVcxUUsyMVNHY1k9EiRmN2ZkZjc3My01ZTI3LTQ5YjEtOTg0MC00MDMxYmVhMmIzNmEYACAAKAAw56fTz9MwOKmo08/TMECpqNPP0zBKHERKTXBSNCtwSnR2M0VzUUVDcGs0VEhTU3VkND1aHiIcQS9FUlBCL3k2SWczZE1qUmRUZWlsbnd6Ni9jPWUAAAAAEqcBCAkSogEKHHI0YzhUQ3U5MG5Eb3ZDWC8zY2x1QUJlVnppND0SJGYzZmMxNzFkLWE4NWQtNDYzYi04MGYwLWY1NzQ5ODQxMmNmZhgAIAAoADCAx7O/1zA41cezv9cwQNXHs7/XMEocbTlRR2RJaCsva1Vwa3hGODJKS0l3RUduV3ZjPVoeIhxmZVlBdVd3YlJ3NTg4aUFMdWhsT1BCaFYwWFk9Zcz2/XkSpwEIDBKiAQocaThNcXQ1TkZWdE9yU09sOUlaU05hLzdaM0lzPRIkNThjZTk5ZDAtMTgxMC00NDc3LWI1MjUtMmVhYmIwMDY3ODI3GAAgACgAMKj7g9TSMDjy6ZqXzjBA8umal84wShxkVkRzTDZZT0ExTWtremg1QzE5MVpJejI1N1k9Wh4iHFBhaXpuTkZ0WjNqV2ZvZXRtVmlZVXZqMFM3MD1lRMnhIxKnAQgHEqIBChxRV3FyVjVMRjZjMUxCQTNxSVRxYXNhQU1uVmc9EiRlNWU4MWJkYS1mNTM5LTQxZmYtOTNiMi1jODVhZDhmNTQ1ZDIYACAAKAAwlfjbzNUwOOT428zVMEDk+NvM1TBKHFBPQ0h3VzJCZCt6VVRoUnU2OFlROU51dWhJUT1aHiIcQ0N2Yy9XS3AvTmpTdm50T3Ftbkt3dlQzVDRFPWVvnSi0EqcBCAgSogEKHFM1MkhENnNZdSszQmJTR0twQklwdjVrM0sxND0SJDc3NDdmNmNkLTdjNTAtNDQ4Zi1hN2IzLThmYmM1ZWY3N2U4ZBgAIAAoADDBg5+e1jA4l4SfntYwQJeEn57WMEocODNhZUhxdXU1aWdwYXo1eGU2YjQwaHkzSUdBPVoeIhxOWjFIZmdUalpUdjNUcGYweHJmeThUdGpEUXM9ZQAYigsSpwEIChKiAQocVFBlaTJXaW94RStLd1JhVElMMWdVWm1MZVAwPRIkZmQ2NzYxMDctY2NiOS00OTZkLWI2MTYtMWI4YzllOTM5ZmJjGAAgACgAML7h6IzYMDiM4uiM2DBAjOLojNgwShx1eG5ROFNJSnVaSFB4YlhDWmc0Nk9yZ0hFYjA9Wh4iHGZscVpPbXhaU1NBWFRpS0tFcm1XaThKNXRrRT1l/5KYbBKJAQgBEoQBChx5eEovNmZ2a2VjcjdrcDVFUXpCNHRXTHBkYkU9EiRkMjE3OWE3ZS1lYWM0LTVmNmMtYjBlZi1mYzdiMjVkNjJlOWUYACAAKAAwt7SKr8gwOPG4iq/IMEDxuIqvyDBKHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1aAGUAAAAAMAA4AA==",
+   "version": 1
+}
